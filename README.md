@@ -8,4 +8,4 @@ Audio Language: Vietnamese
 
 Usage:
 
-python3 text2voice.py https://truyenfull.vn/nga-vi-tru-vuong-chi-ngao-khieu-phong-than/chuong-1/
+python3  text2voice.py  https://truyenfull.vn/nga-vi-tru-vuong-chi-ngao-khieu-phong-than/chuong-1/
